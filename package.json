@@ -1,0 +1,27 @@
+{
+  "name": "rosadomar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "Start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mplima08/rosadomar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mplima08/rosadomar/issues"
+  },
+  "homepage": "https://github.com/mplima08/rosadomar#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "install": "^0.13.0",
+    "nodemon": "^2.0.15",
+    "npm": "^8.5.5",
+    "path": "^0.12.7"
+  }
+}
